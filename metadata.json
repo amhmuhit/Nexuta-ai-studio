@@ -1,0 +1,5 @@
+{
+  "name": "Nexuta AI Image Generator",
+  "description": "An elite, production-grade AI Image Generation SaaS platform. This application is architected entirely on the frontend using React.js, with all data managed in the browser's session state. It features a stunning, hyper-modern, and fully animated UI for both users and administrators.",
+  "requestFramePermissions": []
+}
